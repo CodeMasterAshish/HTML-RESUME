@@ -1,8 +1,12 @@
 # HTML-RESUME
 
-## Project URL
 
-Link:  https://codemasterashish.github.io/HTML-RESUME/
+
+Project URL: https://codemasterashish.github.io/HTML-RESUME/
+
+Solution URL: https://github.com/CodeMasterAshish/HTML-RESUME
+
+Live Site URL: https://codemasterashish.github.io/HTML-RESUME/
 
 A simple and responsive resume website built using HTML. This project showcases personal information, skills, education, and professional  in a clean and structured format.
 
