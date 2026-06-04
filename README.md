@@ -1,8 +1,6 @@
 # HTML-RESUME
 
-
-
-Project URL: https://codemasterashish.github.io/HTML-RESUME/
+Project URL: https://roadmap.sh/projects/single-page-cv
 
 Solution URL: https://github.com/CodeMasterAshish/HTML-RESUME
 
