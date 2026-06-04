@@ -38,4 +38,4 @@ Ashish Jha
 
 This project is open source and available for learning and personal use.
 
-## Live link https://codemasterashish.github.io/HTML-RESUME/
+## page  https://github.com/CodeMasterAshish/HTML-RESUME/settings/pages
